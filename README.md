@@ -1,6 +1,5 @@
 # Getting Started with the React AppBar Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate and customize the Syncfusion React AppBar component in a React application.
 
 A quick‑start React project that includes example code to add the Syncfusion AppBar component. The sample demonstrates simple customization scenarios and key features such as changing the AppBar color, size, and position to suit different application layouts.
